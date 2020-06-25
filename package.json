@@ -1,0 +1,11 @@
+{
+  "name": "theme-negative",
+  "version": "1.0.0",
+  "description": "Dark Theme for Insomnia.",
+  "license": "MIT",
+  "main": "index.js",
+  "insomnia": {
+    "name": "theme-negative",
+    "description": "Dark Theme for Insomnia."
+  }
+}

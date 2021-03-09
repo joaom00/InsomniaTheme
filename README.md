@@ -1,4 +1,16 @@
-# Negative for [Insomnia](http://insomnia.rest)
+# Negative Themes for [Insomnia](http://insomnia.rest)
+
+<br/>
+
+<h1 align="center">Negative</h1>
+
+![Imagem do insomnia com o tema Negative](https://user-images.githubusercontent.com/48808846/110398916-a1324800-8053-11eb-96d6-6fa2fe5b089b.png)
+
+<br/>
+
+<h1 align="center">Negative ALternate</h1>
+
+![Imagem do insomnia com o tema Negative Alternate](https://user-images.githubusercontent.com/48808846/110399179-23bb0780-8054-11eb-98e5-754993b64252.png)
 
 ## [Install](./INSTALL.md)
 

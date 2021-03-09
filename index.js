@@ -1,4 +1,4 @@
 module.exports.themes = [
   require('./themes/negative'),
-  require('./themes/negative-alternative'),
+  require('./themes/negative-alternate'),
 ];

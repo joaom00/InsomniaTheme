@@ -8,7 +8,7 @@
 
 <br/>
 
-<h1 align="center">Negative ALternate</h1>
+<h1 align="center">Negative Alternate</h1>
 
 ![Imagem do insomnia com o tema Negative Alternate](https://user-images.githubusercontent.com/48808846/110399179-23bb0780-8054-11eb-98e5-754993b64252.png)
 
